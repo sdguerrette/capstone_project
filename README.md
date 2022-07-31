@@ -8,3 +8,13 @@
 
 
 The data available at KFF.org spans 2018 - 2020.  There is a potential that the population numbers are disconnected but this is likely not material to the analysis.  The percentage of people with health risks likely did not materially change from 2018 to 2020 excluding Covid.
+
+## Data files Update 7/31
+covid_cases_state_summary.csv
+covid_cases_state_summary_TP.csv
+combined_cases_deaths_state.csv
+Covid_summary_stats_by_state.csv
+
+1. The covid_cases_state_summary(transposed) is the confirmed cases by state for the time frame from the JHU date
+2. The combined_cases_deaths_state.csv- combined the total cases and total deaths to County/State/Population
+3. Covid_summary_stats_by_state - calculated case/death rate and death rate per case added to file. This file could supersede the combined file - same info.
