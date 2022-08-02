@@ -23,7 +23,8 @@
 9. create ML model and feed the data to it
 10. analyze and explore results of the analysis
 11. optimize data and ML model
-
+12. create presentation in google slides?
+13. create visualization dashboard in Tableau?
 
 ## Communication Protocols
 - main communication through Slack channel
