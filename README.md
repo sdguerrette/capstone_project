@@ -1,13 +1,14 @@
 # capstone_project
 
 ## Topic
-- using state/county demographics, population risk factors, covid-19 case rates, and covid 19 death rates to predict whether a state or county is at high risk of an infectious disease.
-- we selected this topic as we were all interested in the health field, and there is a preponderance of data regarding covid-19 over the last 3 years.
+-using county population demographics, vulnerability data, and social context data to predict the case rate of covid-19 over the first year of the virus (march 2020-march 2021). 
+- a successful model may help us predict which counties would be most vulnerable to a new infection disease
 
 ## Data Sources
-- KFF.org
-- John Hopkins University
-- U.S. census data
+- US census: https://www2.census.gov/programs-surveys/popest/datasets/2020-2021/counties/totals/
+- Social Context for Understanding a Region: https://www.statsamerica.org/downloads/default.aspx
+- social vulnerability index(SVI): https://www.atsdr.cdc.gov/placeandhealth/svi/
+- Case Time Series Data - Johns Hopkins University: https://github.com/govex/COVID-19
 
 
 
