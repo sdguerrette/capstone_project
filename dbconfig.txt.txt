@@ -1,3 +1,0 @@
-Endpoint: capstone-db.cutxgn80t57o.us-west-1.rds.amazonaws.com
-master_user: postgres
-password: capstone
