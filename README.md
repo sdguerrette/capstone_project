@@ -1,4 +1,4 @@
-# capstone_project
+# capstone_project - Deliverable 1
 
 ## Topic
 -using county population demographics, vulnerability data, and social context data to predict the case rate of covid-19 over the first year of the virus (march 2020-march 2021). 
@@ -30,4 +30,4 @@
 ## Communication Protocols
 - main communication through Slack channel
 - collaborative work done via Zoom 
-- emergency communication via slack DM as needed
+- emergency communication via email if need be
