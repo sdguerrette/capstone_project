@@ -1,0 +1,31 @@
+﻿,Data Dictionary - Explanations,,,,,
+,,,,,,
+Group,State/County Metadata,,,,,
+,Field,Explanation,,,,
+,FIPS,County FIPS Code,,,,
+,STATE,State,,,,
+,ST_ABBR,State Abbreviation,,,,
+,COUNTY,County,,,,
+,LOCATION,"Combined County, State",,,,
+,AREA_SQMI,County Area,,,,
+,E_TOTPOP,Estimated Total Population as of 2018,,,,
+,E_HU,Housing Units,,,,
+,E_HH,# of Households,Percents,Percentile Rank,Totals,
+Socioeconomic,E_POV,Number of people below Poverty line,EP_POV,EPL_POV,SPL_THEME1,Total for Theme
+,E_UNEMP,Number unemployed,EP_UNEMP,EPL_UNEMP,RPL_THEME1,Percentile rank for Them
+,E_PCI,Per capita incom,EP_PCI,EPL_PCI,,
+,E_NOHSDP,Number no high school diploma,EP_NOHSDP,EPL_NOHSDP,,
+Household Composition & Disability,E_AGE65,number over 65,EP_AGE65,EPL_AGE65,SPL_THEME2,Total for Theme
+,E_AGE17,number under 17,EP_AGE17,EPL_AGE17,RPL_THEME2,Percentile rank for Them
+,E_DISABL,number w/ disability,EP_DISABL,EPL_DISABL,,
+,E_SNGPNT,Number of sinble parent households,EP_SNGPNT,EPL_SNGPNT,,
+Minority Status & Language,E_MINRTY,Number minority status,EP_MINRTY,EPL_MINRTY,SPL_THEME3,Total for Theme
+,E_LIMENG,People with limited english,EP_LIMENG,EPL_LIMENG,RPL_THEME3,Percentile rank for Them
+Housing Type & Transportation,E_MUNIT,Number of multi-unit structures > 10 units,EP_MUNIT,EPL_MUNIT,SPL_THEME4,Total for Theme
+,E_MOBILE,Number of mobile homes,EP_MOBILE,EPL_MOBILE,RPL_THEME4,Percentile rank for Them
+,E_CROWD,Crowding - more people than rooms,EP_CROWD,EPL_CROWD,,
+,E_NOVEH,No vehicle,EP_NOVEH,EPL_NOVEH,,
+,E_GROUPQ,Group Quarters,EP_GROUPQ,EPL_GROUPQ,,
+Adjunct Variables,E_UNINSUR,Number of uninsured,,,,
+,EP_UNINSUR,Percent uninsured,,,,
+,E_DAYPOP,Est Day Population,,,,
