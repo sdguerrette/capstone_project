@@ -1,8 +1,12 @@
 .DS_Store
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> f00aef035bd3aa463a35c134f4eb9f250f470281
+=======
+
+>>>>>>> eb118f6bd5c844719c370eb595535d750a20439d
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
