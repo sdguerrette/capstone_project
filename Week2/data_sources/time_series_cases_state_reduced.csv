@@ -51,7 +51,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84001099,840,1099,Monroe,Alabama,1704
 84001101,840,1101,Montgomery,Alabama,23743
 84001103,840,1103,Morgan,Alabama,14131
-84080001,840,80001,Out of AL,Alabama,0
 84001105,840,1105,Perry,Alabama,1079
 84001107,840,1107,Pickens,Alabama,2323
 84001109,840,1109,Pike,Alabama,3042
@@ -63,7 +62,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84001121,840,1121,Talladega,Alabama,7987
 84001123,840,1123,Tallapoosa,Alabama,3847
 84001125,840,1125,Tuscaloosa,Alabama,25059
-84090001,840,90001,Unassigned,Alabama,0
 84001127,840,1127,Walker,Alabama,7058
 84001129,840,1129,Washington,Alabama,1639
 84001131,840,1131,Wilcox,Alabama,1244
@@ -72,7 +70,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84002016,840,2016,Aleutians West,Alaska,652
 84002020,840,2020,Anchorage,Alaska,28397
 84002050,840,2050,Bethel,Alaska,3767
-84002060,840,2060,Bristol Bay,Alaska,0
 84002164,840,2164,Bristol Bay plus Lake and Peninsula,Alaska,185
 84002063,840,2063,Chugach,Alaska,332
 84002066,840,2066,Copper River,Alaska,230
@@ -80,7 +77,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84002070,840,2070,Dillingham,Alaska,208
 84002090,840,2090,Fairbanks North Star,Alaska,6640
 84002100,840,2100,Haines,Alaska,29
-84002105,840,2105,Hoonah-Angoon,Alaska,0
 84002110,840,2110,Juneau,Alaska,1294
 84002122,840,2122,Kenai Peninsula,Alaska,4142
 84002130,840,2130,Ketchikan Gateway,Alaska,390
@@ -90,7 +86,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84002180,840,2180,Nome,Alaska,338
 84002185,840,2185,North Slope,Alaska,1050
 84002188,840,2188,Northwest Arctic,Alaska,598
-84080002,840,80002,Out of AK,Alaska,0
 84002195,840,2195,Petersburg,Alaska,153
 84002198,840,2198,Prince of Wales-Hyder,Alaska,85
 84002220,840,2220,Sitka,Alaska,333
@@ -101,7 +96,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84002275,840,2275,Wrangell,Alaska,33
 84002282,840,2282,Yakutat,Alaska,72
 84002290,840,2290,Yukon-Koyukuk,Alaska,350
-16,16,60,,American Samoa,0
 84004001,840,4001,Apache,Arizona,10959
 84004003,840,4003,Cochise,Arizona,11600
 84004005,840,4005,Coconino,Arizona,17076
@@ -112,11 +106,9 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84004013,840,4013,Maricopa,Arizona,524386
 84004015,840,4015,Mohave,Arizona,22122
 84004017,840,4017,Navajo,Arizona,15703
-84080004,840,80004,Out of AZ,Arizona,0
 84004019,840,4019,Pima,Arizona,112677
 84004021,840,4021,Pinal,Arizona,49475
 84004023,840,4023,Santa Cruz,Arizona,7818
-84090004,840,90004,Unassigned,Arizona,0
 84004025,840,4025,Yavapai,Arizona,18327
 84004027,840,4027,Yuma,Arizona,36751
 84005001,840,5001,Arkansas,Arkansas,2076
@@ -171,7 +163,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84005099,840,5099,Nevada,Arkansas,816
 84005101,840,5101,Newton,Arkansas,707
 84005103,840,5103,Ouachita,Arkansas,2291
-84080005,840,80005,Out of AR,Arkansas,0
 84005105,840,5105,Perry,Arkansas,824
 84005107,840,5107,Phillips,Arkansas,1737
 84005109,840,5109,Pike,Arkansas,997
@@ -226,7 +217,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84006055,840,6055,Napa,California,9434
 84006057,840,6057,Nevada,California,4468
 84006059,840,6059,Orange,California,266233
-84080006,840,80006,Out of CA,California,0
 84006061,840,6061,Placer,California,22190
 84006063,840,6063,Plumas,California,674
 84006065,840,6065,Riverside,California,297412
@@ -252,7 +242,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84006105,840,6105,Trinity,California,375
 84006107,840,6107,Tulare,California,57349
 84006109,840,6109,Tuolumne,California,4011
-84090006,840,90006,Unassigned,California,0
 84006111,840,6111,Ventura,California,82319
 84006113,840,6113,Yolo,California,13619
 84006115,840,6115,Yuba,California,5802
@@ -303,7 +292,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84008087,840,8087,Morgan,Colorado,2535
 84008089,840,8089,Otero,Colorado,1885
 84008091,840,8091,Ouray,Colorado,275
-84080008,840,80008,Out of CO,Colorado,0
 84008093,840,8093,Park,Colorado,609
 84008095,840,8095,Phillips,Colorado,350
 84008097,840,8097,Pitkin,Colorado,2432
@@ -328,19 +316,15 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84009007,840,9007,Middlesex,Connecticut,11552
 84009009,840,9009,New Haven,Connecticut,80542
 84009011,840,9011,New London,Connecticut,20674
-84080009,840,80009,Out of CT,Connecticut,0
 84009013,840,9013,Tolland,Connecticut,8614
 84090009,840,90009,Unassigned,Connecticut,1089
 84009015,840,9015,Windham,Connecticut,9881
 84010001,840,10001,Kent,Delaware,15527
 84010003,840,10003,New Castle,Delaware,55327
-84080010,840,80010,Out of DE,Delaware,0
 84010005,840,10005,Sussex,Delaware,23744
 84090010,840,90010,Unassigned,Delaware,204
 84088888,840,88888,,Diamond Princess,49
 84011001,840,11001,District of Columbia,District of Columbia,44513
-84080011,840,80011,Out of DC,District of Columbia,0
-84090011,840,90011,Unassigned,District of Columbia,0
 84012001,840,12001,Alachua,Florida,23378
 84012003,840,12003,Baker,Florida,3360
 84012005,840,12005,Bay,Florida,19387
@@ -390,7 +374,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84012093,840,12093,Okeechobee,Florida,3749
 84012095,840,12095,Orange,Florida,123683
 84012097,840,12097,Osceola,Florida,39604
-84080012,840,80012,Out of FL,Florida,0
 84012099,840,12099,Palm Beach,Florida,131581
 84012101,840,12101,Pasco,Florida,36391
 84012103,840,12103,Pinellas,Florida,72243
@@ -575,11 +558,9 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 316,316,66,,Guam,7807
 84015001,840,15001,Hawaii,Hawaii,2517
 84015003,840,15003,Honolulu,Hawaii,23463
-84015005,840,15005,Kalawao,Hawaii,0
 84015007,840,15007,Kauai,Hawaii,194
 84015009,840,15009,Maui,Hawaii,3605
 84080015,840,80015,Out of HI,Hawaii,975
-84090015,840,90015,Unassigned,Hawaii,0
 84016001,840,16001,Ada,Idaho,49189
 84016003,840,16003,Adams,Idaho,333
 84016005,840,16005,Bannock,Idaho,8414
@@ -616,14 +597,12 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84016067,840,16067,Minidoka,Idaho,2314
 84016069,840,16069,Nez Perce,Idaho,3479
 84016071,840,16071,Oneida,Idaho,347
-84080016,840,80016,Out of ID,Idaho,0
 84016073,840,16073,Owyhee,Idaho,1038
 84016075,840,16075,Payette,Idaho,2453
 84016077,840,16077,Power,Idaho,648
 84016079,840,16079,Shoshone,Idaho,1047
 84016081,840,16081,Teton,Idaho,1158
 84016083,840,16083,Twin Falls,Idaho,9138
-84090016,840,90016,Unassigned,Idaho,0
 84016085,840,16085,Valley,Idaho,826
 84016087,840,16087,Washington,Idaho,1198
 84017001,840,17001,Adams,Illinois,8075
@@ -789,7 +768,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84018113,840,18113,Noble,Indiana,5251
 84018115,840,18115,Ohio,Indiana,548
 84018117,840,18117,Orange,Indiana,1735
-84080018,840,80018,Out of IN,Indiana,0
 84018119,840,18119,Owen,Indiana,1882
 84018121,840,18121,Parke,Indiana,1426
 84018123,840,18123,Perry,Indiana,1775
@@ -811,7 +789,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84018155,840,18155,Switzerland,Indiana,765
 84018157,840,18157,Tippecanoe,Indiana,20907
 84018159,840,18159,Tipton,Indiana,1580
-84090018,840,90018,Unassigned,Indiana,0
 84018161,840,18161,Union,Indiana,690
 84018163,840,18163,Vanderburgh,Indiana,21753
 84018165,840,18165,Vermillion,Indiana,1640
@@ -896,7 +873,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84019139,840,19139,Muscatine,Iowa,4449
 84019141,840,19141,O'Brien,Iowa,1929
 84019143,840,19143,Osceola,Iowa,717
-84080019,840,80019,Out of IA,Iowa,0
 84019145,840,19145,Page,Iowa,1858
 84019147,840,19147,Palo Alto,Iowa,1073
 84019149,840,19149,Plymouth,Iowa,3853
@@ -997,7 +973,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84020139,840,20139,Osage,Kansas,1207
 84020141,840,20141,Osborne,Kansas,288
 84020143,840,20143,Ottawa,Kansas,549
-84080020,840,80020,Out of KS,Kansas,0
 84020145,840,20145,Pawnee,Kansas,1142
 84020147,840,20147,Phillips,Kansas,712
 84020149,840,20149,Pottawatomie,Kansas,1852
@@ -1024,7 +999,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84020191,840,20191,Sumner,Kansas,2107
 84020193,840,20193,Thomas,Kansas,1092
 84020195,840,20195,Trego,Kansas,404
-84090020,840,90020,Unassigned,Kansas,0
 84020197,840,20197,Wabaunsee,Kansas,670
 84020199,840,20199,Wallace,Kansas,175
 84020201,840,20201,Washington,Kansas,531
@@ -1125,7 +1099,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84021181,840,21181,Nicholas,Kentucky,496
 84021183,840,21183,Ohio,Kentucky,2385
 84021185,840,21185,Oldham,Kentucky,7310
-84080021,840,80021,Out of KY,Kentucky,0
 84021187,840,21187,Owen,Kentucky,639
 84021189,840,21189,Owsley,Kentucky,481
 84021191,840,21191,Pendleton,Kentucky,985
@@ -1191,7 +1164,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84022069,840,22069,Natchitoches,Louisiana,3952
 84022071,840,22071,Orleans,Louisiana,29264
 84022073,840,22073,Ouachita,Louisiana,17896
-84080022,840,80022,Out of LA,Louisiana,0
 84022075,840,22075,Plaquemines,Louisiana,2449
 84022077,840,22077,Pointe Coupee,Louisiana,2469
 84022079,840,22079,Rapides,Louisiana,11580
@@ -1228,7 +1200,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84023011,840,23011,Kennebec,Maine,4300
 84023013,840,23013,Knox,Maine,806
 84023015,840,23015,Lincoln,Maine,657
-84080023,840,80023,Out of ME,Maine,0
 84023017,840,23017,Oxford,Maine,2541
 84023019,840,23019,Penobscot,Maine,4611
 84023021,840,23021,Piscataquis,Maine,384
@@ -1254,29 +1225,24 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84024027,840,24027,Howard,Maryland,17270
 84024029,840,24029,Kent,Maryland,1220
 84024031,840,24031,Montgomery,Maryland,66704
-84080024,840,80024,Out of MD,Maryland,0
 84024033,840,24033,Prince George's,Maryland,78011
 84024035,840,24035,Queen Anne's,Maryland,2709
 84024039,840,24039,Somerset,Maryland,2480
 84024037,840,24037,St. Mary's,Maryland,5409
 84024041,840,24041,Talbot,Maryland,1958
-84090024,840,90024,Unassigned,Maryland,0
 84024043,840,24043,Washington,Maryland,13245
 84024045,840,24045,Wicomico,Maryland,7082
 84024047,840,24047,Worcester,Maryland,3381
 84025001,840,25001,Barnstable,Massachusetts,12150
 84025003,840,25003,Berkshire,Massachusetts,5507
 84025005,840,25005,Bristol,Massachusetts,59917
-84025007,840,25007,Dukes,Massachusetts,0
 84070002,840,,Dukes and Nantucket,Massachusetts,2278
 84025009,840,25009,Essex,Massachusetts,89306
 84025011,840,25011,Franklin,Massachusetts,2215
 84025013,840,25013,Hampden,Massachusetts,45841
 84025015,840,25015,Hampshire,Massachusetts,8327
 84025017,840,25017,Middlesex,Massachusetts,122222
-84025019,840,25019,Nantucket,Massachusetts,0
 84025021,840,25021,Norfolk,Massachusetts,49961
-84080025,840,80025,Out of MA,Massachusetts,0
 84025023,840,25023,Plymouth,Massachusetts,44164
 84025025,840,25025,Suffolk,Massachusetts,84646
 84090025,840,90025,Unassigned,Massachusetts,38639
@@ -1424,7 +1390,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84027107,840,27107,Norman,Minnesota,495
 84027109,840,27109,Olmsted,Minnesota,12344
 84027111,840,27111,Otter Tail,Minnesota,5141
-84080027,840,80027,Out of MN,Minnesota,0
 84027113,840,27113,Pennington,Minnesota,1476
 84027115,840,27115,Pine,Minnesota,2975
 84027117,840,27117,Pipestone,Minnesota,1051
@@ -1510,7 +1475,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84028101,840,28101,Newton,Mississippi,2425
 84028103,840,28103,Noxubee,Mississippi,1252
 84028105,840,28105,Oktibbeha,Mississippi,4520
-84080028,840,80028,Out of MS,Mississippi,0
 84028107,840,28107,Panola,Mississippi,4418
 84028109,840,28109,Pearl River,Mississippi,4380
 84028111,840,28111,Perry,Mississippi,1245
@@ -1530,7 +1494,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84028139,840,28139,Tippah,Mississippi,2830
 84028141,840,28141,Tishomingo,Mississippi,2209
 84028143,840,28143,Tunica,Mississippi,1019
-84090028,840,90028,Unassigned,Mississippi,0
 84028145,840,28145,Union,Mississippi,4008
 84028147,840,28147,Walthall,Mississippi,1295
 84028149,840,28149,Warren,Mississippi,4248
@@ -1618,7 +1581,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84029147,840,29147,Nodaway,Missouri,2653
 84029149,840,29149,Oregon,Missouri,849
 84029151,840,29151,Osage,Missouri,1625
-84080029,840,80029,Out of MO,Missouri,0
 84029153,840,29153,Ozark,Missouri,677
 84029155,840,29155,Pemiscot,Missouri,1546
 84029157,840,29157,Perry,Missouri,2161
@@ -1651,7 +1613,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84029211,840,29211,Sullivan,Missouri,857
 84029213,840,29213,Taney,Missouri,5180
 84029215,840,29215,Texas,Missouri,1823
-84090029,840,90029,Unassigned,Missouri,0
 84029217,840,29217,Vernon,Missouri,1943
 84029219,840,29219,Warren,Missouri,3016
 84029221,840,29221,Washington,Missouri,2723
@@ -1692,7 +1653,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84030061,840,30061,Mineral,Montana,249
 84030063,840,30063,Missoula,Montana,8679
 84030065,840,30065,Musselshell,Montana,322
-84080030,840,80030,Out of MT,Montana,0
 84030067,840,30067,Park,Montana,1189
 84030069,840,30069,Petroleum,Montana,12
 84030071,840,30071,Phillips,Montana,517
@@ -1712,7 +1672,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84030099,840,30099,Teton,Montana,438
 84030101,840,30101,Toole,Montana,711
 84030103,840,30103,Treasure,Montana,55
-84090030,840,90030,Unassigned,Montana,0
 84030105,840,30105,Valley,Montana,866
 84030107,840,30107,Wheatland,Montana,175
 84030109,840,30109,Wibaux,Montana,119
@@ -1783,7 +1742,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84031127,840,31127,Nemaha,Nebraska,629
 84031129,840,31129,Nuckolls,Nebraska,430
 84031131,840,31131,Otoe,Nebraska,1372
-84080031,840,80031,Out of NE,Nebraska,0
 84031133,840,31133,Pawnee,Nebraska,232
 84031135,840,31135,Perkins,Nebraska,279
 84031137,840,31137,Phelps,Nebraska,962
@@ -1825,10 +1783,8 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84032019,840,32019,Lyon,Nevada,2929
 84032021,840,32021,Mineral,Nevada,305
 84032023,840,32023,Nye,Nevada,2854
-84080032,840,80032,Out of NV,Nevada,0
 84032027,840,32027,Pershing,Nevada,943
 84032029,840,32029,Storey,Nevada,89
-84090032,840,90032,Unassigned,Nevada,0
 84032031,840,32031,Washoe,Nevada,44092
 84032033,840,32033,White Pine,Nevada,563
 84033001,840,33001,Belknap,New Hampshire,3364
@@ -1838,7 +1794,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84033009,840,33009,Grafton,New Hampshire,3101
 84033011,840,33011,Hillsborough,New Hampshire,31371
 84033013,840,33013,Merrimack,New Hampshire,8237
-84080033,840,80033,Out of NH,New Hampshire,0
 84033015,840,33015,Rockingham,New Hampshire,20887
 84033017,840,33017,Strafford,New Hampshire,8017
 84033019,840,33019,Sullivan,New Hampshire,1448
@@ -1858,7 +1813,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84034025,840,34025,Monmouth,New Jersey,67982
 84034027,840,34027,Morris,New Jersey,44885
 84034029,840,34029,Ocean,New Jersey,68375
-84080034,840,80034,Out of NJ,New Jersey,0
 84034031,840,34031,Passaic,New Jersey,64455
 84034033,840,34033,Salem,New Jersey,5242
 84034035,840,34035,Somerset,New Jersey,26720
@@ -1886,7 +1840,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84035031,840,35031,McKinley,New Mexico,12141
 84035033,840,35033,Mora,New Mexico,168
 84035035,840,35035,Otero,New Mexico,3618
-84080035,840,80035,Out of NM,New Mexico,0
 84035037,840,35037,Quay,New Mexico,428
 84035039,840,35039,Rio Arriba,New Mexico,3471
 84035041,840,35041,Roosevelt,New Mexico,1866
@@ -1940,7 +1893,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84036073,840,36073,Orleans,New York,2591
 84036075,840,36075,Oswego,New York,6608
 84036077,840,36077,Otsego,New York,2911
-84080036,840,80036,Out of NY,New York,0
 84036079,840,36079,Putnam,New York,9527
 84036081,840,36081,Queens,New York,246197
 84036083,840,36083,Rensselaer,New York,10004
@@ -2033,7 +1985,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84037131,840,37131,Northampton,North Carolina,1790
 84037133,840,37133,Onslow,North Carolina,15367
 84037135,840,37135,Orange,North Carolina,8077
-84080037,840,80037,Out of NC,North Carolina,0
 84037137,840,37137,Pamlico,North Carolina,1051
 84037139,840,37139,Pasquotank,North Carolina,3188
 84037141,840,37141,Pender,North Carolina,5023
@@ -2055,7 +2006,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84037173,840,37173,Swain,North Carolina,1195
 84037175,840,37175,Transylvania,North Carolina,2067
 84037177,840,37177,Tyrrell,North Carolina,308
-84090037,840,90037,Unassigned,North Carolina,0
 84037179,840,37179,Union,North Carolina,22381
 84037181,840,37181,Vance,North Carolina,4645
 84037183,840,37183,Wake,North Carolina,80510
@@ -2100,7 +2050,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84038061,840,38061,Mountrail,North Dakota,1287
 84038063,840,38063,Nelson,North Dakota,464
 84038065,840,38065,Oliver,North Dakota,154
-84080038,840,80038,Out of ND,North Dakota,0
 84038067,840,38067,Pembina,North Dakota,785
 84038069,840,38069,Pierce,North Dakota,531
 84038071,840,38071,Ramsey,North Dakota,1662
@@ -2117,12 +2066,10 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84038093,840,38093,Stutsman,North Dakota,3330
 84038095,840,38095,Towner,North Dakota,303
 84038097,840,38097,Traill,North Dakota,1009
-84090038,840,90038,Unassigned,North Dakota,0
 84038099,840,38099,Walsh,North Dakota,1800
 84038101,840,38101,Ward,North Dakota,9369
 84038103,840,38103,Wells,North Dakota,438
 84038105,840,38105,Williams,North Dakota,4613
-580,580,69,,Northern Mariana Islands,159
 84039001,840,39001,Adams,Ohio,2245
 84039003,840,39003,Allen,Ohio,11053
 84039005,840,39005,Ashland,Ohio,4020
@@ -2185,7 +2132,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84039119,840,39119,Muskingum,Ohio,8514
 84039121,840,39121,Noble,Ohio,1313
 84039123,840,39123,Ottawa,Ohio,3418
-84080039,840,80039,Out of OH,Ohio,0
 84039125,840,39125,Paulding,Ohio,1662
 84039127,840,39127,Perry,Ohio,2825
 84039129,840,39129,Pickaway,Ohio,8296
@@ -2203,7 +2149,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84039153,840,39153,Summit,Ohio,43243
 84039155,840,39155,Trumbull,Ohio,15025
 84039157,840,39157,Tuscarawas,Ohio,8257
-84090039,840,90039,Unassigned,Ohio,0
 84039159,840,39159,Union,Ohio,5423
 84039161,840,39161,Van Wert,Ohio,2343
 84039163,840,39163,Vinton,Ohio,788
@@ -2318,12 +2263,10 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84041047,840,41047,Marion,Oregon,19341
 84041049,840,41049,Morrow,Oregon,1062
 84041051,840,41051,Multnomah,Oregon,33248
-84080041,840,80041,Out of OR,Oregon,0
 84041053,840,41053,Polk,Oregon,3223
 84041055,840,41055,Sherman,Oregon,53
 84041057,840,41057,Tillamook,Oregon,509
 84041059,840,41059,Umatilla,Oregon,7871
-84090041,840,90041,Unassigned,Oregon,0
 84041061,840,41061,Union,Oregon,1372
 84041063,840,41063,Wallowa,Oregon,149
 84041065,840,41065,Wasco,Oregon,1243
@@ -2379,7 +2322,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84042093,840,42093,Montour,Pennsylvania,1837
 84042095,840,42095,Northampton,Pennsylvania,30460
 84042097,840,42097,Northumberland,Pennsylvania,8557
-84080042,840,80042,Out of PA,Pennsylvania,0
 84042099,840,42099,Perry,Pennsylvania,3207
 84042101,840,42101,Philadelphia,Pennsylvania,130405
 84042103,840,42103,Pike,Pennsylvania,3156
@@ -2390,7 +2332,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84042113,840,42113,Sullivan,Pennsylvania,342
 84042115,840,42115,Susquehanna,Pennsylvania,1999
 84042117,840,42117,Tioga,Pennsylvania,2616
-84090042,840,90042,Unassigned,Pennsylvania,0
 84042119,840,42119,Union,Pennsylvania,5411
 84042121,840,42121,Venango,Pennsylvania,3534
 84042123,840,42123,Warren,Pennsylvania,2280
@@ -2399,90 +2340,9 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84042129,840,42129,Westmoreland,Pennsylvania,29178
 84042131,840,42131,Wyoming,Pennsylvania,1415
 84042133,840,42133,York,Pennsylvania,39481
-63072001,630,72001,Adjuntas,Puerto Rico,397
-63072003,630,72003,Aguada,Puerto Rico,1036
-63072005,630,72005,Aguadilla,Puerto Rico,1239
-63072007,630,72007,Aguas Buenas,Puerto Rico,885
-63072009,630,72009,Aibonito,Puerto Rico,480
-63072011,630,72011,Anasco,Puerto Rico,658
-63072013,630,72013,Arecibo,Puerto Rico,2456
-63072015,630,72015,Arroyo,Puerto Rico,204
-63072017,630,72017,Barceloneta,Puerto Rico,601
-63072019,630,72019,Barranquitas,Puerto Rico,956
-63072021,630,72021,Bayamon,Puerto Rico,8199
-63072023,630,72023,Cabo Rojo,Puerto Rico,593
-63072025,630,72025,Caguas,Puerto Rico,4922
-63072027,630,72027,Camuy,Puerto Rico,961
-63072029,630,72029,Canovanas,Puerto Rico,1433
-63072031,630,72031,Carolina,Puerto Rico,6721
-63072033,630,72033,Catano,Puerto Rico,943
-63072035,630,72035,Cayey,Puerto Rico,1024
-63072037,630,72037,Ceiba,Puerto Rico,282
-63072039,630,72039,Ciales,Puerto Rico,624
-63072041,630,72041,Cidra,Puerto Rico,1050
-63072043,630,72043,Coamo,Puerto Rico,698
-63072045,630,72045,Comerio,Puerto Rico,560
-63072047,630,72047,Corozal,Puerto Rico,1168
-63072049,630,72049,Culebra,Puerto Rico,23
-63072051,630,72051,Dorado,Puerto Rico,1592
-63072053,630,72053,Fajardo,Puerto Rico,852
-63072054,630,72054,Florida,Puerto Rico,399
-63072055,630,72055,Guanica,Puerto Rico,153
-63072057,630,72057,Guayama,Puerto Rico,633
-63072059,630,72059,Guayanilla,Puerto Rico,263
-63072061,630,72061,Guaynabo,Puerto Rico,3492
-63072063,630,72063,Gurabo,Puerto Rico,1624
-63072065,630,72065,Hatillo,Puerto Rico,924
-63072067,630,72067,Hormigueros,Puerto Rico,322
-63072069,630,72069,Humacao,Puerto Rico,1335
-63072071,630,72071,Isabela,Puerto Rico,1042
-63072073,630,72073,Jayuya,Puerto Rico,211
-63072075,630,72075,Juana Diaz,Puerto Rico,916
-63072077,630,72077,Juncos,Puerto Rico,1635
-63072079,630,72079,Lajas,Puerto Rico,268
-63072081,630,72081,Lares,Puerto Rico,605
-63072083,630,72083,Las Marias,Puerto Rico,138
-63072085,630,72085,Las Piedras,Puerto Rico,1214
-63072087,630,72087,Loiza,Puerto Rico,889
-63072089,630,72089,Luquillo,Puerto Rico,501
-63072091,630,72091,Manati,Puerto Rico,1121
-63072093,630,72093,Maricao,Puerto Rico,71
-63072095,630,72095,Maunabo,Puerto Rico,216
-63072097,630,72097,Mayaguez,Puerto Rico,1470
-63072099,630,72099,Moca,Puerto Rico,1148
-63072101,630,72101,Morovis,Puerto Rico,1126
-63072103,630,72103,Naguabo,Puerto Rico,691
-63072105,630,72105,Naranjito,Puerto Rico,1166
-63072107,630,72107,Orocovis,Puerto Rico,693
-63072888,630,72888,Out of PR,Puerto Rico,246
-63072109,630,72109,Patillas,Puerto Rico,238
-63072111,630,72111,Penuelas,Puerto Rico,456
-63072113,630,72113,Ponce,Puerto Rico,2601
-63072115,630,72115,Quebradillas,Puerto Rico,643
-63072117,630,72117,Rincon,Puerto Rico,342
-63072119,630,72119,Rio Grande,Puerto Rico,1482
-63072121,630,72121,Sabana Grande,Puerto Rico,275
-63072123,630,72123,Salinas,Puerto Rico,586
-63072125,630,72125,San German,Puerto Rico,419
-63072127,630,72127,San Juan,Puerto Rico,14562
-63072129,630,72129,San Lorenzo,Puerto Rico,1353
-63072131,630,72131,San Sebastian,Puerto Rico,1074
-63072133,630,72133,Santa Isabel,Puerto Rico,358
-63072135,630,72135,Toa Alta,Puerto Rico,3060
-63072137,630,72137,Toa Baja,Puerto Rico,3017
-63072139,630,72139,Trujillo Alto,Puerto Rico,2347
-63072999,630,72999,Unassigned,Puerto Rico,3092
-63072141,630,72141,Utuado,Puerto Rico,717
-63072143,630,72143,Vega Alta,Puerto Rico,1343
-63072145,630,72145,Vega Baja,Puerto Rico,2273
-63072147,630,72147,Vieques,Puerto Rico,117
-63072149,630,72149,Villalba,Puerto Rico,659
-63072151,630,72151,Yabucoa,Puerto Rico,788
-63072153,630,72153,Yauco,Puerto Rico,599
 84044001,840,44001,Bristol,Rhode Island,4591
 84044003,840,44003,Kent,Rhode Island,16664
 84044005,840,44005,Newport,Rhode Island,5785
-84080044,840,80044,Out of RI,Rhode Island,0
 84044007,840,44007,Providence,Rhode Island,88787
 84090044,840,90044,Unassigned,Rhode Island,12400
 84044009,840,44009,Washington,Rhode Island,9102
@@ -2524,13 +2384,11 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84045071,840,45071,Newberry,South Carolina,4668
 84045073,840,45073,Oconee,South Carolina,8933
 84045075,840,45075,Orangeburg,South Carolina,9315
-84080045,840,80045,Out of SC,South Carolina,0
 84045077,840,45077,Pickens,South Carolina,17503
 84045079,840,45079,Richland,South Carolina,43883
 84045081,840,45081,Saluda,South Carolina,1706
 84045083,840,45083,Spartanburg,South Carolina,38783
 84045085,840,45085,Sumter,South Carolina,10082
-84090045,840,90045,Unassigned,South Carolina,0
 84045087,840,45087,Union,South Carolina,2879
 84045089,840,45089,Williamsburg,South Carolina,3925
 84045091,840,45091,York,South Carolina,28620
@@ -2585,7 +2443,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84046099,840,46099,Minnehaha,South Dakota,29738
 84046101,840,46101,Moody,South Dakota,625
 84046102,840,46102,Oglala Lakota,South Dakota,2085
-84080046,840,80046,Out of SD,South Dakota,0
 84046103,840,46103,Pennington,South Dakota,13246
 84046105,840,46105,Perkins,South Dakota,351
 84046107,840,46107,Potter,South Dakota,387
@@ -2597,7 +2454,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84046121,840,46121,Todd,South Dakota,1218
 84046123,840,46123,Tripp,South Dakota,739
 84046125,840,46125,Turner,South Dakota,1133
-84090046,840,90046,Unassigned,South Dakota,0
 84046127,840,46127,Union,South Dakota,2137
 84046129,840,46129,Walworth,South Dakota,753
 84046135,840,46135,Yankton,South Dakota,2929
@@ -2880,7 +2736,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84048357,840,48357,Ochiltree,Texas,1063
 84048359,840,48359,Oldham,Texas,249
 84048361,840,48361,Orange,Texas,8193
-84080048,840,80048,Out of TX,Texas,0
 84048363,840,48363,Palo Pinto,Texas,2835
 84048365,840,48365,Panola,Texas,1570
 84048367,840,48367,Parker,Texas,15250
@@ -2929,7 +2784,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84048453,840,48453,Travis,Texas,79217
 84048455,840,48455,Trinity,Texas,711
 84048457,840,48457,Tyler,Texas,1247
-84090048,840,90048,Unassigned,Texas,0
 84048459,840,48459,Upshur,Texas,3198
 84048461,840,48461,Upton,Texas,381
 84048463,840,48463,Uvalde,Texas,3513
@@ -2955,12 +2809,10 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84048503,840,48503,Young,Texas,2128
 84048505,840,48505,Zapata,Texas,1760
 84048507,840,48507,Zavala,Texas,1844
-84070015,840,,Bear River,Utah,20788
 84049001,840,49001,Beaver,Utah,0
 84049003,840,49003,Box Elder,Utah,0
 84049005,840,49005,Cache,Utah,0
 84049007,840,49007,Carbon,Utah,0
-84070016,840,,Central Utah,Utah,8699
 84049009,840,49009,Daggett,Utah,0
 84049011,840,49011,Davis,Utah,36194
 84049013,840,49013,Duchesne,Utah,0
@@ -2972,20 +2824,16 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84049025,840,49025,Kane,Utah,0
 84049027,840,49027,Millard,Utah,0
 84049029,840,49029,Morgan,Utah,0
-84080049,840,80049,Out of UT,Utah,0
 84049031,840,49031,Piute,Utah,0
 84049033,840,49033,Rich,Utah,0
 84049035,840,49035,Salt Lake,Utah,143774
 84049037,840,49037,San Juan,Utah,1851
 84049039,840,49039,Sanpete,Utah,0
 84049041,840,49041,Sevier,Utah,0
-84070017,840,,Southeast Utah,Utah,3240
-84070018,840,,Southwest Utah,Utah,27867
 84049043,840,49043,Summit,Utah,5319
 84049045,840,49045,Tooele,Utah,6904
 84070019,840,,TriCounty,Utah,3828
 84049047,840,49047,Uintah,Utah,0
-84090049,840,90049,Unassigned,Utah,875
 84049049,840,49049,Utah,Utah,92952
 84049051,840,49051,Wasatch,Utah,4477
 84049053,840,49053,Washington,Utah,0
@@ -3002,13 +2850,10 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84050015,840,50015,Lamoille,Vermont,698
 84050017,840,50017,Orange,Vermont,550
 84050019,840,50019,Orleans,Vermont,888
-84080050,840,80050,Out of VT,Vermont,0
 84050021,840,50021,Rutland,Vermont,1733
-84090050,840,90050,Unassigned,Vermont,12
 84050023,840,50023,Washington,Vermont,1604
 84050025,840,50025,Windham,Vermont,1102
 84050027,840,50027,Windsor,Vermont,1179
-850,850,78,,Virgin Islands,2907
 84051001,840,51001,Accomack,Virginia,2709
 84051003,840,51003,Albemarle,Virginia,5275
 84051510,840,51510,Alexandria,Virginia,10940
@@ -3100,7 +2945,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84051720,840,51720,Norton,Virginia,251
 84051135,840,51135,Nottoway,Virginia,1865
 84051137,840,51137,Orange,Virginia,2005
-84080051,840,80051,Out of VA,Virginia,0
 84051139,840,51139,Page,Virginia,1907
 84051141,840,51141,Patrick,Virginia,1279
 84051730,840,51730,Petersburg,Virginia,3509
@@ -3133,7 +2977,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84051181,840,51181,Surry,Virginia,405
 84051183,840,51183,Sussex,Virginia,1135
 84051185,840,51185,Tazewell,Virginia,3386
-84090051,840,90051,Unassigned,Virginia,0
 84051810,840,51810,Virginia Beach,Virginia,33166
 84051187,840,51187,Warren,Virginia,2559
 84051191,840,51191,Washington,Virginia,4482
@@ -3168,7 +3011,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84053043,840,53043,Lincoln,Washington,361
 84053045,840,53045,Mason,Washington,2444
 84053047,840,53047,Okanogan,Washington,2283
-84080053,840,80053,Out of WA,Washington,0
 84053049,840,53049,Pacific,Washington,787
 84053051,840,53051,Pend Oreille,Washington,676
 84053053,840,53053,Pierce,Washington,42514
@@ -3220,7 +3062,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84054065,840,54065,Morgan,West Virginia,1017
 84054067,840,54067,Nicholas,West Virginia,1381
 84054069,840,54069,Ohio,West Virginia,3842
-84080054,840,80054,Out of WV,West Virginia,0
 84054071,840,54071,Pendleton,West Virginia,666
 84054073,840,54073,Pleasants,West Virginia,817
 84054075,840,54075,Pocahontas,West Virginia,616
@@ -3234,7 +3075,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84054091,840,54091,Taylor,West Virginia,1152
 84054093,840,54093,Tucker,West Virginia,517
 84054095,840,54095,Tyler,West Virginia,657
-84090054,840,90054,Unassigned,West Virginia,0
 84054097,840,54097,Upshur,West Virginia,1782
 84054099,840,54099,Wayne,West Virginia,2750
 84054101,840,54101,Webster,West Virginia,447
@@ -3286,7 +3126,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84055081,840,55081,Monroe,Wisconsin,4485
 84055083,840,55083,Oconto,Wisconsin,4798
 84055085,840,55085,Oneida,Wisconsin,3647
-84080055,840,80055,Out of WI,Wisconsin,0
 84055087,840,55087,Outagamie,Wisconsin,22569
 84055089,840,55089,Ozaukee,Wisconsin,8812
 84055091,840,55091,Pepin,Wisconsin,841
@@ -3305,7 +3144,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84055109,840,55109,St. Croix,Wisconsin,8419
 84055119,840,55119,Taylor,Wisconsin,2051
 84055121,840,55121,Trempealeau,Wisconsin,3564
-84090055,840,90055,Unassigned,Wisconsin,0
 84055123,840,55123,Vernon,Wisconsin,1940
 84055125,840,55125,Vilas,Wisconsin,2335
 84055127,840,55127,Walworth,Wisconsin,11634
@@ -3330,7 +3168,6 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84056023,840,56023,Lincoln,Wyoming,1354
 84056025,840,56025,Natrona,Wyoming,7817
 84056027,840,56027,Niobrara,Wyoming,150
-84080056,840,80056,Out of WY,Wyoming,0
 84056029,840,56029,Park,Wyoming,2640
 84056031,840,56031,Platte,Wyoming,610
 84056033,840,56033,Sheridan,Wyoming,3079
@@ -3338,6 +3175,5 @@ UID,code3,FIPS,Admin2,Province_State,3/31/21
 84056037,840,56037,Sweetwater,Wyoming,4022
 84056039,840,56039,Teton,Wyoming,3609
 84056041,840,56041,Uinta,Wyoming,2128
-84090056,840,90056,Unassigned,Wyoming,0
 84056043,840,56043,Washakie,Wyoming,891
 84056045,840,56045,Weston,Wyoming,633
