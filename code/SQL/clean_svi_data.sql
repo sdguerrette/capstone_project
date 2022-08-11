@@ -1,0 +1,9 @@
+SELECT * FROM svi_2018_county
+LIMIT 100
+ 
+ALTER TABLE svi_2018_county
+DROP "index";
+
+ALTER TABLE svi_2018_county
+DROP "LOCATION"
+
