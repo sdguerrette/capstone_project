@@ -45,7 +45,7 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 2. Database ERD
 3. Pandas notebooks for reading files form AWS Postgres via SQAlchemy
 4. Pandas notebooks for Machine Learning model(s)
-5. Dashboard Overview presentation - http://localhost:8888/files/capstone_project/presentations/Dashboard%20Overview%20Project%20SARS-CoV2.pdf
+5. Dashboard Overview presentation - https://docs.google.com/presentation/d/1SbQcksbUVfjbWz5cyRXGlZ6ASmoH5DDLym7nwJ6EI3g/edit#slide=id.g145380342ec_1_5
 6. Project Presentation Draft Updated - https://docs.google.com/presentation/d/1kE4QF0gfoAloIRoChRrmSqW5rIKJxH974ZjqdPmSTww/edit#slide=id.g143434d59db_2_13
-7. Github repsository updated with relevant files in "Main" branch
+7. Github repository updated with relevant files in "Main" branch
 
