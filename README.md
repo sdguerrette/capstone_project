@@ -1,7 +1,9 @@
 # Capstone Project - Deliverable 2
 
 ## Topic / Problem Statement
+
 Using  state and county demographics, social vulnerability data, social context, political affiliation and hospital capacity data to predict the case and death rate of covid-19 over the first year of the virus (march 2020-march 2021).  Specifically, the development of modeling capabilities to predict higher risk of cases and a higher mortality rate at the county level.  A successful model could be helpful in managing a similar outbreak with similar R0 behavior to Covid.
+
 
 
 ## Data Sources
@@ -10,9 +12,11 @@ Using  state and county demographics, social vulnerability data, social context,
 - social vulnerability index(SVI): https://www.atsdr.cdc.gov/placeandhealth/svi/
 - Case Time Series Data - Johns Hopkins University: https://github.com/govex/COVID-19
 - Death Time Series Data - Johns Hopkins University: https://github.com/govex/COVID-19
+
 - Election Results by county - Harvard University :
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 - Hospital Capacity by county - https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::hospitals/about
+
 
 
 ## Project steps
@@ -43,4 +47,5 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 4. Pandas notebooks for Machine Learning model(s)
 5. Dashboard Overview presentation
 6. Project Presentation Draft Updated
+7. Github repsository updated with relevant files in "Main" branch
 
