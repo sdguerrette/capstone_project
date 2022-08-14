@@ -1,7 +1,9 @@
 # Capstone Project - Deliverable 2
 
 ## Topic / Problem Statement
-Using  state and county demographics, social vulnerability data, social context, political affiliation and hospital capacity data to predict the case rate of covid-19 over the first year of the virus (march 2020-march 2021).  Specifically, the development of modelling capabilities to predict higher risk of cases and a higher mortality rate at the county level.  A successful model could be helpful in managing a similar outbreak with similar R0 behavior to Covid.
+
+Using  state and county demographics, social vulnerability data, social context, political affiliation and hospital capacity data to predict the case and death rate of covid-19 over the first year of the virus (march 2020-march 2021).  Specifically, the development of modeling capabilities to predict higher risk of cases and a higher mortality rate at the county level.  A successful model could be helpful in managing a similar outbreak with similar R0 behavior to Covid.
+
 
 
 ## Data Sources
@@ -10,8 +12,11 @@ Using  state and county demographics, social vulnerability data, social context,
 - social vulnerability index(SVI): https://www.atsdr.cdc.gov/placeandhealth/svi/
 - Case Time Series Data - Johns Hopkins University: https://github.com/govex/COVID-19
 - Death Time Series Data - Johns Hopkins University: https://github.com/govex/COVID-19
-- Political Affilication by county - 
-- Hospital Capacity by county - 
+
+- Election Results by county - Harvard University :
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
+- Hospital Capacity by county - https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::hospitals/about
+
 
 
 ## Project steps
@@ -20,10 +25,10 @@ Using  state and county demographics, social vulnerability data, social context,
 3. Loading data from the AWS-Postgres database into Python/Pandas via SQAlchemy reads.
 4. Pandas/Jupyter notebooks to explore the data including graphical review and correlation
 5. Save intermediate and final analysis tables into the AWS-Postgres database.
-6. Conduct feature analysis and seperate target varible in preaparation for modeling.
+6. Conduct feature analysis and separate target variable in preparation for modeling.
 7. Develop and analyze the performance of one or more Machine Learning models to predict county "hotspots".
     a. Scale features as needed for modeling
-    b. Seperate target variable(s)
+    b. Separate target variable(s)
     c. Fit and Train the selected model.
 10. Analyze performance of the model output with metrics such as Accuracy, Confusion Matrix, Mean Squared Error, MAPE as appropriate
 11. Perform tuning of the model as needed to improve performance via Hyperparameters
@@ -43,3 +48,4 @@ Using  state and county demographics, social vulnerability data, social context,
 5. Dashboard Overview presentation
 6. Project Presentation Draft Updated
 7. Github repsository updated with relevant files in "Main" branch
+
